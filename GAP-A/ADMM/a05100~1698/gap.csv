@@ -1,0 +1,5 @@
+iteration,local_LB,local_UB,LB,UB,gap,un_served,repeat_served
+0,1693.0,1728,1693.0,100000,0.983,,
+1,1693.0,1719,1693.0,1719,0.015,,
+2,1693.0,1708,1693.0,1708,0.009,,
+Running time: 0.26 sec
